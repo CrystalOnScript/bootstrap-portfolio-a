@@ -1,1 +1,2 @@
-# bootstrap-portfolio-a
+# bootstrap-portfolio
+Week Two Homework 

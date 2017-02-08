@@ -1,0 +1,97 @@
+body {
+  background-image: url("../images/upfeathers.png");
+}
+
+#mainview {
+  height: 100%;
+  min-height: 500px;
+
+}
+
+h3 {
+  color: #79767C;
+  padding-left: 15px;
+
+}
+
+h2 {
+  color: #79767C;
+  width: 100%;
+
+}
+
+.grnbackground {
+  background-color: #C6CD51;
+  padding-left: 10px;
+}
+
+
+.social {
+  max-width: 100px;
+  width: 30%;
+  margin: 2px;
+}
+
+.border {
+  border: solid 1px #79767C;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  padding: 0 30px;
+  color: #524840;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  color: #ccc;
+  font-size: 12px;
+  text-align: center;
+  background: #79767C;
+  border-top: 8px solid #C6CD51;
+  margin: 15px 0 0 0;
+}
+
+
+
+#connect {
+  height: 100%;
+
+}
+
+.lightbcgrd {
+  background-color: #FFF;
+}
+
+button {
+  background-color: #C6CD51;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: .8;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  max-width: 300px;
+}
+
+.work h6 {
+  position: absolute;
+  bottom: 10px;
+  margin-bottom: 10;
+  padding: 10px;
+  width: 84%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 300;
+  background: #C6CD51;
+  border-bottom: 0;
+  max-width: 300px;
+}
